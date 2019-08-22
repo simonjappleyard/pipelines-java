@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/simonjappleyard/simonjappleyard/_apis/build/status/simonjappleyard.pipelines-java?branchName=master)](https://dev.azure.com/simonjappleyard/simonjappleyard/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
